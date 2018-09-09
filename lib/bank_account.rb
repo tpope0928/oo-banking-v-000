@@ -3,7 +3,8 @@ class BankAccount
   attr_accessor :status, :balance
   
   def initialize
-
+    @name = name
+    
   end
   
   
