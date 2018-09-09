@@ -13,5 +13,5 @@ class Transfer
     sender.valid? && reciever.valid?
   end
   
-  
+  def execute_
 end
