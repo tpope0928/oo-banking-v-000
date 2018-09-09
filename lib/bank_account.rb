@@ -12,5 +12,8 @@ class BankAccount
     @balance += amount
   end
   
+  def valid?
+    
+  end
   
 end
