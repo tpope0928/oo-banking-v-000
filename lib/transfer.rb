@@ -23,5 +23,6 @@ class Transfer
     end
   end
   
-  def re
+  def reverse_transfer
+    if valid? 
 end
